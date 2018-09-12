@@ -1,2 +1,3 @@
-# Trimaran
-SJTU Trimaran project 
+# SJTU robotic trimaran project
+项目简介：无人三体船模型供本科生实验课以及研究生科研用，船长1.2m，船宽0.8m，排水量30kg.动力来自于2个由电机带动的螺旋桨，通过差速控制船体转向。
+船上搭载的主要传感器有航姿参考系统（ARHS）以及全球导航卫星系统（GNSS）。
